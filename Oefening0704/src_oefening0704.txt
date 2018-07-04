@@ -1,0 +1,3 @@
+"C:\\Users\\Dell\\Dropbox\\En dan is er ... Java 4\\Gereed\\UitwerkingenOefeningen\\H07\\Oefening0704\\src\\Oefening0704.java"
+"C:\\Users\\Dell\\Dropbox\\En dan is er ... Java 4\\Gereed\\UitwerkingenOefeningen\\H07\\Oefening0704\\src\\Scorebord.java"
+"C:\\Users\\Dell\\Dropbox\\En dan is er ... Java 4\\Gereed\\UitwerkingenOefeningen\\H07\\Oefening0704\\src\\Teller.java"
